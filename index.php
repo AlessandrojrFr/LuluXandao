@@ -20,9 +20,9 @@
   <div class="card">
   <img id="" src="imagens HAMB/60de057e-e468-4749-bab3-6c39ac1e0389.jpg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">X-Nunes</h5>
+      <h5 class="card-title">X-fagner</h5>
       <p class="card-text">Ingredientes: pão, tomate, alface, carne, maionese, molho caseiro da casa, queijo cheddar.</p>
-      <a href="pedido.php" class="btn btn-primary">Faça o seu pedido</a>
+      <a href="pedidos.php" class="btn btn-primary">Faça o seu pedido</a>
     </div>
   </div>
   <div class="card">
@@ -30,7 +30,7 @@
     <div class="card-body">
       <h5 class="card-title">X-Souza</h5>
       <p class="card-text">O lanche favorito da galera, o X-Souza é um lanche especial do chefe recheado com: maionese, bacon, frango desfiado, carne de hambúrguer, tomate, alface, queijo cheddar e pão caseiro da casa.</p>
-      <a href="pedido.php" class="btn btn-primary">Faça o seu pedido</a>
+      <a href="pedidos.php" class="btn btn-primary">Faça o seu pedido</a>
     </div>
   </div>
   <div class="card">
@@ -38,7 +38,7 @@
     <div class="card-body">
       <h5 class="card-title">X-Dieimes</h5>
       <p class="card-text">O lanche mais caro de todos, mas o que mais alivia sua fome apresentamos o X-Dieimes um dos melhores da casa que satisfaz a fome de um Excelente Aluno, ingredientes: pão caseiro da casa, queijo cheddar, carne, tomate, alface, maionese, ketchup, mostarda, molho caseiro. </p>
-      <a href="pedido.php" class="btn btn-primary">Faça o seu pedido</a>
+      <a href="pedidos.php" class="btn btn-primary">Faça o seu pedido</a>
     </div>
   </div>
 </div>
