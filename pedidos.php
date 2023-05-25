@@ -49,7 +49,7 @@
                 <input class="form-control" type="text" name="bt_telefone">
             </div>
             <div class="mb-3">
-                <label class="form-label" for="">Seu pedido:</label>
+                <label class="form-label" for="">Seu pedido:</label>zz
                 <input class="form-control" type="text" name="bt_pedido">
             </div>
             <div class="mb-3">
